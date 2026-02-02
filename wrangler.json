@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "knoxnet-vms",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f7c56c1d-224b-4540-96e0-54f1376e150e",
+			"database_name": "knoxnet_vms_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
